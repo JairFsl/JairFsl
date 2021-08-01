@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JairFsl
 - 👀 I’m interested in programação em geral mas principalemente em Back-end
-- 🌱 I’m currently learning  Python e Dart
-- 💞️ I’m looking to collaborate on  SQL e Flutter
+- 🌱 I’m currently learning  Python e PHP
+- 💞️ I’m looking to collaborate on  SQL
 - 📫 How to reach me ...
 
 <!---
