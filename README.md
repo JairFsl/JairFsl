@@ -10,7 +10,6 @@
   <img align="center" alt="Jair-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-![Snake animation](https://github.com/JairFsl/JairFsl/blob/output/github-contribution-grid-snake.svg)
   
   
 <div>
